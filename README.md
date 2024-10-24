@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seancully or Seán Culleton
-- I’m currently studying BSc Hons Computer Science degree. (Year 3).
+- I’m currently studying BSc Hons Computer Science degree. (Year 4).
 - 📫 How to reach me: email 'seanculleton02@gmail.com'
 
 <!---
