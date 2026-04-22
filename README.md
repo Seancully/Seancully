@@ -1,5 +1,5 @@
 # 💫 About Me:
-Year 4 Computer Science Student<br>Interested in Software Development and Software Engineering<br>Currently Working Dynamic Web Application for Mental Health/Wellness/Gym using the MERN Tech stack<br>
+Full-Stack Software Engineer
 
 
 ## 🌐 Socials:
